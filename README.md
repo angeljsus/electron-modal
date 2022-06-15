@@ -85,7 +85,7 @@ Las rutas añadidas dentro del `switch` deben tener los archivos a los que hace 
 
 #### Llamar los modales registrados
 
-##### createModal(width, height, name)
+**createModal(width, height, name)**
 
 **Descripción**
 
